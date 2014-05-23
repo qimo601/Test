@@ -14,6 +14,8 @@ public:
 
 private:
 	Ui::TestGitClass ui;
+	//ฤ๚บร
+	int m;
 };
 
 #endif // TESTGIT_H
